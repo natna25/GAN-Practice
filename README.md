@@ -25,7 +25,14 @@ In this one, I added a function to record the training process of the GAN in ord
 
 https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/
 
-## 4) Exploring the GAN latent space
+## 4) Conditional GAN
+
+In this example, I modified the code to work with the CIFAR10 dataset
+
+https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
+
+
+## 5) Exploring the GAN latent space
 
 https://machinelearningmastery.com/how-to-interpolate-and-perform-vector-arithmetic-with-faces-using-a-generative-adversarial-network/
     
